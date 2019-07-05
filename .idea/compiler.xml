@@ -9,6 +9,9 @@
         <module name="microcloudserviceapi" />
         <module name="microservicecloud-eureka-7001" />
         <module name="microservicecloudconfig3344" />
+        <module name="microservicecloudconfigclient3355" />
+        <module name="microservicecloudconfigdeptclient8001" />
+        <module name="microservicecloudconfigeurekaclient7001" />
         <module name="microservicecloudconsumerdept80" />
         <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudconsumerhystrixdashboard" />

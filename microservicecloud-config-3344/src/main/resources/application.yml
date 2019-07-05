@@ -8,9 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:lyqan123/microservicecloud-config.git
-          username: lyqan123
-          password: linyuqingaini123
+          uri: https://github.com/lyqan123/microservicecloud-config.git
+
 
 
 
